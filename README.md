@@ -12,4 +12,5 @@
 Прогресс конвертации
 
 ![69](https://github.com/fo0bas/coderVI1/assets/158994442/7f04fb17-1b03-463c-b74e-aa90cbb45798)
-![70](https://github.com/fo0bas/coderVI1/assets/158994442/a61d561b-7b0f-468f-a495-946878e44c7d)
+
+![70](https://github.com/fo0bas/coderVI1/assets/158994442/2b2e8633-cac7-4024-9724-516a1eceb8a7)
