@@ -14,3 +14,4 @@
 
 ![71](https://github.com/fo0bas/coderVI1/assets/158994442/74b11dfc-40fd-44c0-b1f0-50df5b295151)
 ![72](https://github.com/fo0bas/coderVI1/assets/158994442/f7037e35-d2d6-4f95-875e-5ba46696064c)
+![Язык интерфейса](https://github.com/fo0bas/coderVI1/assets/158994442/3e2646b8-5056-4674-b8f3-2206116775db)
