@@ -10,3 +10,6 @@
 Выбор кодека :DIVX?,XVID,MP4V 
 Выбор качества сохранения файла : 1080,720,480,360,240  (НЕ РЕАЛИЗОВАНА)
 Прогресс конвертации
+
+![69](https://github.com/fo0bas/coderVI1/assets/158994442/7f04fb17-1b03-463c-b74e-aa90cbb45798)
+![70](https://github.com/fo0bas/coderVI1/assets/158994442/a61d561b-7b0f-468f-a495-946878e44c7d)
