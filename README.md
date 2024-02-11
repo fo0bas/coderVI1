@@ -11,6 +11,6 @@
 Выбор качества сохранения файла : 1080,720,480,360,240  (НЕ РЕАЛИЗОВАНА)
 Прогресс конвертации
 
-![69](https://github.com/fo0bas/coderVI1/assets/158994442/7f04fb17-1b03-463c-b74e-aa90cbb45798)
 
-![70](https://github.com/fo0bas/coderVI1/assets/158994442/2b2e8633-cac7-4024-9724-516a1eceb8a7)
+![71](https://github.com/fo0bas/coderVI1/assets/158994442/74b11dfc-40fd-44c0-b1f0-50df5b295151)
+![72](https://github.com/fo0bas/coderVI1/assets/158994442/f7037e35-d2d6-4f95-875e-5ba46696064c)
