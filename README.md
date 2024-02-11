@@ -1,4 +1,4 @@
-СКАЧАТЬ EXE ФАЙЛ  https://disk.yandex.ru/d/6e8WfZfv7eTLxw 
+СКАЧАТЬ EXE ФАЙЛ  https://drive.google.com/file/d/1KH48jf6_yduQL73D4Km9FQdFqrbaaOAn/view?usp=sharing
 
 
 СoderVI1 Задумывается мной к реализации как универсальная программа/утилита для работы с некоторыми видео кодеками такими как HEVC,FMP4,H264+ ,то есть все те кодеки с которыми сложно работать на повседневной основе 
