@@ -1,3 +1,11 @@
+
+Обновленная версия 1.2.1
+Оптимизирована скорость обработки 
+Добавлен прогрес в минутах 
+Добавлен прогрес в процентах 
+Добавленно описание премуществ каждого из кодеков
+![121](https://github.com/fo0bas/coderVI1/assets/158994442/ddad8452-0264-42ed-ad32-0132650bfa48)
+
 СКАЧАТЬ EXE ФАЙЛ  https://drive.google.com/file/d/1KH48jf6_yduQL73D4Km9FQdFqrbaaOAn/view?usp=sharing
 
 
