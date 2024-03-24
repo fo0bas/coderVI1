@@ -9,6 +9,8 @@ pip install PySimpleGUI
 
 pip install opencv-python
 
+____________________________________
+
 
 
 
