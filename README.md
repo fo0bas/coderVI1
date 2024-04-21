@@ -5,7 +5,8 @@
 
 Обновленный и упрощенный фреймворк ,что позволяет ускорить обработку видеокодека ,все остальные функции так же присутсвуют как и в прошлых версиях
 
-![image](https://github.com/fo0bas/coderVI1/assets/158994442/6b001ea8-e21b-4685-930e-2d71af8d871f)
+![image](https://github.com/fo0bas/coderVI1/assets/158994442/84eecf9b-4bc5-475a-9bba-d78bf9d37416)
+
 
 Версия DecoderVI 1.2.1
 
