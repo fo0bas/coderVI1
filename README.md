@@ -19,10 +19,11 @@
 
 Так же если у вас идеи по улучшения работы программы мой телеграмм : @f0bass
 
-![Дизайн без названия (3)](https://github.com/fo0bas/coderVI1/assets/158994442/0e0434e4-6815-40e2-81e3-1e850df4cab2)
 
 
 
+
+![Без названия (50 x 50 пикс )](https://github.com/fo0bas/coderVI1/assets/158994442/07c79b8c-6c66-4978-b4e4-6f46280659e7)
 Версия DecoderVI 1.2.1
 
 Скачать  https://drive.google.com/file/d/1sBkor2KtHoruhqficdF4cSZ4rFh9pHXK/view?usp=sharing
@@ -45,11 +46,12 @@ pip install opencv-python
 
 
 
-![Дизайн без названия (3)](https://github.com/fo0bas/coderVI1/assets/158994442/0f481c63-5045-4b77-bf19-cd1aff78d44b)
 
 
 
 
+
+![Без названия (50 x 50 пикс )](https://github.com/fo0bas/coderVI1/assets/158994442/e8c9862e-42d7-4d66-aa5b-e96d1927249c)
 *Версия 1.2.1
 
 Оптимизирована скорость обработки 
@@ -65,9 +67,10 @@ pip install opencv-python
 ![121](https://github.com/fo0bas/coderVI1/assets/158994442/b8fbb3e5-29a0-4404-aedf-e585cd525b7e)
 
 
-![Дизайн без названия (3)](https://github.com/fo0bas/coderVI1/assets/158994442/aabf1586-1fc6-45a6-9e5f-3728ba6e3a82)
 
 
+
+![Без названия (50 x 50 пикс )](https://github.com/fo0bas/coderVI1/assets/158994442/04a7a3a7-7193-4959-b44a-1d473923324a)
 *Версия 1.2.0
    
 Вкладка 1
@@ -87,10 +90,11 @@ pip install opencv-python
 ![image](https://github.com/fo0bas/coderVI1/assets/158994442/fd53267d-4db0-4ec4-b814-d9c4a21a50b0)
 
 
-![Дизайн без названия (3)](https://github.com/fo0bas/coderVI1/assets/158994442/f2ce2d42-0268-4cb1-be04-95394c4240da)
 
 
 
+
+![Без названия (50 x 50 пикс )](https://github.com/fo0bas/coderVI1/assets/158994442/70fd99d8-073c-4f0d-a145-44504da5fbc4)
 *Версия 1.0.0
 
    
