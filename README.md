@@ -4,6 +4,7 @@
 
 
 
+![Без названия (50 x 50 пикс )](https://github.com/fo0bas/coderVI1/assets/158994442/a5b66cc0-9fd6-40a4-8abf-80bb90c1ceaa)
 Версия SLIMdecoder 1.2.2 
 
 Скачать : https://drive.google.com/file/d/1Rc3mN_zLcpcw6pFz1tMEJAennTozgCXz/view?usp=sharing
