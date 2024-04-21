@@ -18,6 +18,9 @@
 
 Так же если у вас идеи по улучшения работы программы мой телеграмм : @f0bass
 
+![Дизайн без названия (2)](https://github.com/fo0bas/coderVI1/assets/158994442/8a31a615-8c89-4718-bac9-3a5a2c16b996)
+
+
 Версия DecoderVI 1.2.1
 
 Скачать  https://drive.google.com/file/d/1sBkor2KtHoruhqficdF4cSZ4rFh9pHXK/view?usp=sharing
@@ -36,10 +39,11 @@ pip install PySimpleGUI
 
 pip install opencv-python
 
-____________________________________
 
 
 
+
+![Дизайн без названия (2)](https://github.com/fo0bas/coderVI1/assets/158994442/92d597f8-b47f-41f0-aef6-f142b45b61ef)
 
 
 
@@ -58,7 +62,8 @@ ____________________________________
 ![121](https://github.com/fo0bas/coderVI1/assets/158994442/b8fbb3e5-29a0-4404-aedf-e585cd525b7e)
 
 
-_______________________________________
+![Дизайн без названия (2)](https://github.com/fo0bas/coderVI1/assets/158994442/52189f01-a6be-40d1-8db8-c3e3a50b4226)
+
 
 *Версия 1.2.0
    
