@@ -1,3 +1,13 @@
+
+Версия SLIMdecoder 1.2.2 
+
+Скачать : https://drive.google.com/file/d/1Rc3mN_zLcpcw6pFz1tMEJAennTozgCXz/view?usp=sharing
+
+Обновленный и упрощенный фреймворк ,что позволяет укорить обработку видеокодека ,все остальные функции так же присутсвуют как и в прошлых версиях
+
+![image](https://github.com/fo0bas/coderVI1/assets/158994442/6b001ea8-e21b-4685-930e-2d71af8d871f)
+
+
 Скачать версию 1.2.1 https://drive.google.com/file/d/1sBkor2KtHoruhqficdF4cSZ4rFh9pHXK/view?usp=sharing
 
 DcoderVI Задумывается мной к реализации как универсальная программа/утилита для работы с некоторыми видео кодеками такими как HEVC,FMP4,H264+ ,то есть все те кодеки с которыми сложно работать на повседневной основе 
