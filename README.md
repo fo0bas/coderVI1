@@ -44,7 +44,8 @@ pip install opencv-python
 
 
 
-![Дизайн без названия (2)](https://github.com/fo0bas/coderVI1/assets/158994442/92d597f8-b47f-41f0-aef6-f142b45b61ef)
+![Дизайн без названия (3)](https://github.com/fo0bas/coderVI1/assets/158994442/0f481c63-5045-4b77-bf19-cd1aff78d44b)
+
 
 
 
@@ -63,7 +64,7 @@ pip install opencv-python
 ![121](https://github.com/fo0bas/coderVI1/assets/158994442/b8fbb3e5-29a0-4404-aedf-e585cd525b7e)
 
 
-![Дизайн без названия (2)](https://github.com/fo0bas/coderVI1/assets/158994442/52189f01-a6be-40d1-8db8-c3e3a50b4226)
+![Дизайн без названия (3)](https://github.com/fo0bas/coderVI1/assets/158994442/aabf1586-1fc6-45a6-9e5f-3728ba6e3a82)
 
 
 *Версия 1.2.0
@@ -85,7 +86,8 @@ pip install opencv-python
 ![image](https://github.com/fo0bas/coderVI1/assets/158994442/fd53267d-4db0-4ec4-b814-d9c4a21a50b0)
 
 
-______________________________________________
+![Дизайн без названия (3)](https://github.com/fo0bas/coderVI1/assets/158994442/f2ce2d42-0268-4cb1-be04-95394c4240da)
+
 
 
 *Версия 1.0.0
