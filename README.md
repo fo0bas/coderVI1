@@ -1,3 +1,8 @@
+![DecoderVI](https://github.com/fo0bas/coderVI1/assets/158994442/b2a95071-a2e7-4ac7-b273-13465e26d7a7)
+
+
+
+
 
 Версия SLIMdecoder 1.2.2 
 
