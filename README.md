@@ -1,12 +1,6 @@
 ![DecoderVI](https://github.com/fo0bas/coderVI1/assets/158994442/b2a95071-a2e7-4ac7-b273-13465e26d7a7)
 
-import ttk
 
-import cv2
-
-import os
-
-import threading
 
 
 
@@ -15,6 +9,18 @@ import threading
 
 ![Без названия (50 x 50 пикс )](https://github.com/fo0bas/coderVI1/assets/158994442/a5b66cc0-9fd6-40a4-8abf-80bb90c1ceaa)
 Версия SLIMdecoder 1.2.2 
+
+![Без названия (50 x 50 пикс ) (1)](https://github.com/fo0bas/coderVI1/assets/158994442/859a1243-fd10-4924-87b0-c4a4d494e80f)
+import ttk
+
+![Без названия (50 x 50 пикс ) (1)](https://github.com/fo0bas/coderVI1/assets/158994442/b1e17af3-88ca-4a60-8143-06bb3afb3a10)
+import cv2
+
+![Без названия (50 x 50 пикс ) (1)](https://github.com/fo0bas/coderVI1/assets/158994442/16a3c37a-e32c-4637-9087-0a235f7691f0)
+import os
+
+![Без названия (50 x 50 пикс ) (1)](https://github.com/fo0bas/coderVI1/assets/158994442/c84d1500-c6a5-401a-b645-a56c6463b3e8)
+import threading
 
 Скачать : https://drive.google.com/file/d/1Rc3mN_zLcpcw6pFz1tMEJAennTozgCXz/view?usp=sharing
 
@@ -47,8 +53,10 @@ DcoderVI Задумывается мной к реализации как уни
 
 Библиотеки:
 
+![Без названия (50 x 50 пикс ) (1)](https://github.com/fo0bas/coderVI1/assets/158994442/6b2148e9-0fef-4c83-ae8f-13314c387858)
 pip install PySimpleGUI
 
+![Без названия (50 x 50 пикс ) (1)](https://github.com/fo0bas/coderVI1/assets/158994442/2b6aec52-d525-4f4f-8870-9e308ed91ab6)
 pip install opencv-python
 
 
