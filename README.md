@@ -44,9 +44,9 @@ import threading
 ![Без названия (50 x 50 пикс )](https://github.com/fo0bas/coderVI1/assets/158994442/07c79b8c-6c66-4978-b4e4-6f46280659e7)
 Версия DecoderVI 1.2.1
 
-![Без названия (50 x 50 пикс ) (65 x 65 пикс )](https://github.com/fo0bas/coderVI1/assets/158994442/162ea3e6-d1a0-4fde-9f50-aa81a2f15ee9)
+![Без названия (50 x 50 пикс ) (65 x 65 пикс )](https://github.com/fo0bas/coderVI1/assets/158994442/162ea3e6-d1a0-4fde-9f50-aa81a2f15ee9) Скачать  https://drive.google.com/file/d/1sBkor2KtHoruhqficdF4cSZ4rFh9pHXK/view?usp=sharing
 
-Скачать  https://drive.google.com/file/d/1sBkor2KtHoruhqficdF4cSZ4rFh9pHXK/view?usp=sharing
+
 
 DcoderVI Задумывается мной к реализации как универсальная программа/утилита для работы с некоторыми видео кодеками такими как HEVC,FMP4,H264+ ,то есть все те кодеки с которыми сложно работать на повседневной основе 
 
