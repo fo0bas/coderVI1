@@ -23,9 +23,9 @@ import os
 ![Без названия (50 x 50 пикс ) (1)](https://github.com/fo0bas/coderVI1/assets/158994442/c84d1500-c6a5-401a-b645-a56c6463b3e8)
 import threading
 
-![Без названия (50 x 50 пикс ) (65 x 65 пикс )](https://github.com/fo0bas/coderVI1/assets/158994442/9574dab5-62e7-497f-8ac2-d827240bf083)
+![Без названия (50 x 50 пикс ) (65 x 65 пикс )](https://github.com/fo0bas/coderVI1/assets/158994442/9574dab5-62e7-497f-8ac2-d827240bf083) Скачать : https://drive.google.com/file/d/1Rc3mN_zLcpcw6pFz1tMEJAennTozgCXz/view?usp=sharing
 
-Скачать : https://drive.google.com/file/d/1Rc3mN_zLcpcw6pFz1tMEJAennTozgCXz/view?usp=sharing
+
 
 Обновленный и упрощенный фреймворк ,что позволяет ускорить обработку видеокодека 
 
