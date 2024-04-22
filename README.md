@@ -1,4 +1,4 @@
-          ![DecoderVI](https://github.com/fo0bas/coderVI1/assets/158994442/3718bc5c-c834-4965-b4af-c77044f1b53a)
+![DecoderVI](https://github.com/fo0bas/coderVI1/assets/158994442/3718bc5c-c834-4965-b4af-c77044f1b53a)
 
 
 
