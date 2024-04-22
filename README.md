@@ -16,6 +16,8 @@ DеcoderVI Задумывается мной к реализации как ун
 ![Без названия (50 x 50 пикс )](https://github.com/fo0bas/coderVI1/assets/158994442/a5b66cc0-9fd6-40a4-8abf-80bb90c1ceaa)
 Версия SLIMdecoder 1.2.2 
 
+Библиотеки:
+
 ![Без названия (50 x 50 пикс ) (1)](https://github.com/fo0bas/coderVI1/assets/158994442/859a1243-fd10-4924-87b0-c4a4d494e80f)
 import ttk
 
@@ -54,10 +56,10 @@ import threading
 Библиотеки:
 
 ![Без названия (50 x 50 пикс ) (1)](https://github.com/fo0bas/coderVI1/assets/158994442/6b2148e9-0fef-4c83-ae8f-13314c387858)
-pip install PySimpleGUI
+PySimpleGUI
 
 ![Без названия (50 x 50 пикс ) (1)](https://github.com/fo0bas/coderVI1/assets/158994442/2b6aec52-d525-4f4f-8870-9e308ed91ab6)
-pip install opencv-python
+opencv-python
 
 ![Без названия (50 x 50 пикс ) (65 x 65 пикс )](https://github.com/fo0bas/coderVI1/assets/158994442/162ea3e6-d1a0-4fde-9f50-aa81a2f15ee9) Скачать  https://drive.google.com/file/d/1sBkor2KtHoruhqficdF4cSZ4rFh9pHXK/view?usp=sharing
 
