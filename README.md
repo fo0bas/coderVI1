@@ -71,8 +71,7 @@ pip install opencv-python
 
 
 
-![Без названия (50 x 50 пикс )](https://github.com/fo0bas/coderVI1/assets/158994442/e8c9862e-42d7-4d66-aa5b-e96d1927249c)
-*Версия 1.2.1
+
 
 Оптимизирована скорость обработки 
 
